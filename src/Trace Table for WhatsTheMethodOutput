@@ -1,0 +1,8 @@
+short CENTURY   |   int thisYear   |   int nextYear   |   int thisMonth   |   int february   |   double twentyNine   |   double thisYear
+                |                  |                  |                   |                  |                       |
+     200        |      2010        |      2013        |                   |      2013        |      28.0             |        2016.5
+ __final________|      2011        |      2013        |     2046          |        2         |                       |
+
+ final output:
+ 2044.5
+ 2011 2013 2046
